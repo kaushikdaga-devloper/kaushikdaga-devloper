@@ -17,7 +17,6 @@ I am currently a GSoC '26 Aspirant focusing on **API Dash (foss42)** and the **M
 - **[Smart-Signal-Trading](LINK_TO_REPO):** Real-time market dashboard with a custom LLM pipeline for instant sentiment analysis.
 
 ### 📈 GitHub Stats
-![Kaushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=radical)
 
 ---
