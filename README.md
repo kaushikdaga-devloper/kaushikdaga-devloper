@@ -13,8 +13,8 @@ I am currently a GSoC '26 Aspirant focusing on **API Dash (foss42)** and the **M
 - **Tools:** Linux (2+ years), Git, GitHub, Postman, LLM Integration
 
 ### 🌟 Featured Projects
-- **[Video-Connect](LINK_TO_REPO):** A scalable SFU-based video infrastructure supporting 50+ concurrent users with optimized network resilience.
-- **[Smart-Signal-Trading](LINK_TO_REPO):** Real-time market dashboard with a custom LLM pipeline for instant sentiment analysis.
+- **[Video-Connect](https://github.com/kaushikdaga-devloper/Video-Connect):** A scalable SFU-based video infrastructure supporting 50+ concurrent users with optimized network resilience.
+- **[Smart-Signal-Trading](https://github.com/kaushikdaga-devloper/Smart-Signal-Trading-Platform):** Real-time market dashboard with a custom LLM pipeline for instant sentiment analysis.
 
 ### 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=radical)
